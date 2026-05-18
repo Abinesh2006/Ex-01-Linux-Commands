@@ -1,6 +1,6 @@
 # Ex-01-Linux-Commands
-### Name:  GUHAN B  
-### Reg No : 212224040092
+### Name:  ABINESH M
+### Reg No : 212224040009
 
 ## Aim:
 
